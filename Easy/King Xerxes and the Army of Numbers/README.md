@@ -2,6 +2,8 @@
 
 **Time Limit:** 1 second  
 **Memory Limit:** 64 MB  
+**Time Complexity:** **O(1)** per test case <br>
+**Space Complexity:** **O(1)** (excluding output)
 
 ---
 
@@ -55,12 +57,4 @@ For each test case, print the number formed by repeating the digit `x` exactly `
 - In the first test case, since `x = 4` and `n = 2`, the result is `44`.
 - In the second test case, since `x = 5` and `n = 6`, the result is `555555`.
 
-Simple, elegant, and Xerxes-approved.
 
-Now go, and don't keep the King waiting!
----
-
-## Constraints
-
-- Time Complexity: **O(1)** per test case
-- Space Complexity: **O(1)** (excluding output)
