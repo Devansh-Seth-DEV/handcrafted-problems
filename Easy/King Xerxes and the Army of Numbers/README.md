@@ -37,7 +37,7 @@ For each test case, print the number formed by repeating the digit `x` exactly `
 ### Input
 
 ```bash
-2
+3
 4 2
 5 6
 3 23
