@@ -3,7 +3,6 @@
 **Time Limit:** 1 second  
 **Memory Limit:** 64 MB  
 **Time Complexity:** **O(1)** per test case <br>
-**Space Complexity:** **O(1)** (excluding output)
 
 ---
 
