@@ -2,8 +2,8 @@
 
 **Time Limit:** 0.6 second (cpp) <br>
 **Memory Limit:** 64 MB  <br>
-**Time Complexity:** **O(1)** per test case <br>
-**Space Complexity:** **O(1)** per test case
+**Time Complexity:** O(1) per test case <br>
+**Space Complexity:** O(1) per test case
 
 ---
 
