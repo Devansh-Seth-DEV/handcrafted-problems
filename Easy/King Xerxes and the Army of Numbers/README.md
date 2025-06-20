@@ -22,7 +22,7 @@ You, as the Royal Programmer, are given `t` commands from the King. For each com
 - The first line contains an integer `t` — the number of test cases (1 ≤ t ≤ 1000).
 - The next `t` lines each contain two space-separated integers `x` and `n`:
   - `x` — the digit to repeat (1 ≤ x ≤ 9)
-  - `n` — the number of repetitions (1 ≤ n ≤ 1000)
+  - `n` — the number of repetitions (1 ≤ n ≤ 100000)
 
 ---
 
