@@ -1,6 +1,6 @@
 # King Xerxes and the Army of Numbers
 
-**Time Limit:** 1 second  
+**Time Limit:** 0.6 second (cpp)
 **Memory Limit:** 64 MB  
 **Time Complexity:** **O(1)** per test case <br>
 **Space Complexity:** **O(1)** per test case
